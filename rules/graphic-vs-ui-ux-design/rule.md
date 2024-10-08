@@ -40,7 +40,7 @@ A UI/UX designer often has knowledge of user-centered design principles, wirefra
 **Examples of UI/UX Design Tasks**:
 - Conducting usability testing to identify user pain points and refine the product’s functionality (UX)
 - Designing a website or app interface, ensuring that interactive elements like buttons and menus are easy to use and visually cohesive (UI)
-- Creating wireframes and interactive prototypes to map out user flows (UX/UI)
+- Creating wireframes and interactive prototypes to map out user flows (UI/UX)
 - Writing HTML/CSS code to ensure design integrity during implementation (UI)
 
 <img src="tina-mockup.png" alt="TinaCMS Website Mockup" /><br/>
